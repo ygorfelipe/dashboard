@@ -75811,7 +75811,7 @@ return new A.QJ(A.b([],t.l),A.b([],t.C),A.b([A.ak(["id",1,"nome_cliente","Ana Cl
 A.QJ.prototype={
 aa(){var s=this,r=null
 s.aT()
-s.d=A.b([A.i6(!1,!0,!0,!0,!1,!0,!0,!1,!0,!0,"id",r,B.aH,!1,!1,new A.aju(),B.jK,"N\xba Pedido",B.am,new A.hs(""),110),A.i6(!1,!0,!0,!0,!1,!0,!0,!1,!0,!0,"nome_cliente",r,B.ag,!1,!1,new A.ajv(),B.am,"Nome do Cliente",B.am,new A.hs(""),350),A.i6(!1,!0,!0,!0,!1,!0,!0,!1,!0,!0,"produtos",r,B.ag,!1,!1,new A.ajw(),B.jJ,"Produtos",B.am,new A.hs(""),450),A.i6(!1,!0,!0,!0,!1,!0,!0,!1,!0,!0,"endereco",r,B.ag,!1,!1,new A.ajx(),B.jJ,"Endere\xe7o",B.am,new A.hs(""),450),A.i6(!1,!0,!0,!0,!1,!0,!0,!1,!0,!0,"obs",r,B.ag,!1,!1,new A.ajy(),B.jJ,"Observa\xe7\xe3o",B.am,new A.hs(""),350),A.i6(!1,!0,!0,!0,!0,!0,!0,!1,!0,!0,"status_final",r,B.aI,!1,!1,new A.ajz(),B.jK,"Status",B.am,A.aq1(["Pendente","Finalizado"]),200)],t.l)
+s.d=A.b([A.i6(!1,!0,!0,!1,!1,!0,!0,!1,!0,!0,"id",r,B.aH,!1,!1,new A.aju(),B.jK,"N\xba Pedido",B.am,new A.hs(""),110),A.i6(!1,!0,!0,!1,!1,!0,!0,!1,!0,!0,"nome_cliente",r,B.ag,!1,!1,new A.ajv(),B.am,"Nome do Cliente",B.am,new A.hs(""),350),A.i6(!1,!0,!0,!1,!1,!0,!0,!1,!0,!0,"produtos",r,B.ag,!1,!1,new A.ajw(),B.jJ,"Produtos",B.am,new A.hs(""),450),A.i6(!1,!0,!0,!1,!1,!0,!0,!1,!0,!0,"endereco",r,B.ag,!1,!1,new A.ajx(),B.jJ,"Endere\xe7o",B.am,new A.hs(""),450),A.i6(!1,!0,!0,!1,!1,!0,!0,!1,!0,!0,"obs",r,B.ag,!1,!1,new A.ajy(),B.jJ,"Observa\xe7\xe3o",B.am,new A.hs(""),350),A.i6(!1,!0,!0,!1,!0,!0,!0,!1,!0,!0,"status_final",r,B.aI,!1,!1,new A.ajz(),B.jK,"Status",B.am,A.aq1(["Pendente","Finalizado"]),200)],t.l)
 s.e=s.apU(s.f)},
 l(){this.aI()},
 apU(a){var s=A.Q(a).i("a6<1,ap>")
